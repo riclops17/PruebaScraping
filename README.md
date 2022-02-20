@@ -1,5 +1,5 @@
 # PruebaScraping
-Se llevó a cabo una extracción de informacion de la pagina YTS.mx con el uso de la biblioteca de python BeutifulSoup
+Se llevó a cabo una extracción de informacion de la pagina YTS.mx con el uso de la biblioteca de python BeautifulSoup
 ## información recopilada :
 - Título de Pelicula
 - Director
