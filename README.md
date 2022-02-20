@@ -5,8 +5,9 @@ Se llevo a cabo una extracción de informacion de la pagina YTS.mx con el uso de
 - Director
 - Año  
 - Genero 
-- Rating
+- Rating de audiencia
 - Rating de criticos
+- Likes
 - Score de imbd
 - Enlaces de torrents
 - Sinopsis 
