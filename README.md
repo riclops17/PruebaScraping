@@ -4,7 +4,7 @@ Se llevó a cabo una extracción de informacion de la pagina YTS.mx con el uso d
 - Título de Pelicula
 - Director
 - Año  
-- Genero 
+- Género
 - Rating de audiencia
 - Rating de criticos
 - Likes
