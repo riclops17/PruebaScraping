@@ -1,7 +1,7 @@
 # PruebaScraping
 Se llevó a cabo una extracción de informacion de la pagina YTS.mx con el uso de la biblioteca de python BeutifulSoup
 ## información recopilada :
-- Titulo de Pelicula
+- Título de Pelicula
 - Director
 - Año  
 - Genero 
