@@ -3,8 +3,6 @@ import requests
 import pandas as pd
 import re
 baseUrl = 'https://yts.mx/'
-
-
 movieLinks= []
 #recorrer la cantidad deseada de paginas de yts
 for x in range(1,12):
